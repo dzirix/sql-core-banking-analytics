@@ -1,6 +1,7 @@
 # SQL — Core Banking Analytics
 
 > **Projet personnel — données fictives.** Clients, contrats, versements et incidents sont 100 % synthétiques, générés pour l'apprentissage et la démonstration.
+> **© 2026 Hamza Dziri — Tous droits réservés.** Projet personnel publié à titre de démonstration ; toute reproduction ou réutilisation, totale ou partielle, sans autorisation écrite préalable de l'auteur est interdite.
 
 ## Objectif
 
